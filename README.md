@@ -21,18 +21,10 @@
 
 ---
 
-## 😄 Um pouco de humor para aliviar o código
-
-<div align="center">
-  <img src="https://media.tenor.com/oiyvYVJZZhYAAAAM/alvin-and-the-chipmunks-alvin.gif" width="300px" />
-</div>
-
----
-
 ## 📬 Como falar comigo?
 
-📧 **Email:** seuemail@exemplo.com  
-💬 **Instagram:** [@seuuser](https://instagram.com/seuuser)
+📧 **Email:** antonellithomasv@gmail.com  
+💬 **Instagram:** [@antonelliveloso](https://instagram.com/antonelliveloso)
 
 ---
 
