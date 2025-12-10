@@ -1,16 +1,39 @@
-## Hi there 👋
+<div align="center">
+  <img src="octocat-1765390125964.png" width="250px" alt="Octocat estilizado"/>
+</div>
 
-<!--
-**ThomasTonho/ThomasTonho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Olá! Eu sou o Thomas
 
-Here are some ideas to get you started:
+🎓 Tenho 18 anos e atualmente estou estudando desenvolvimento e aprimorando minhas habilidades como programador.  
+🔧 Aqui você vai encontrar meus projetos, testes, estudos e evolução constante no mundo da tecnologia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Tecnologias que estou estudando / utilizando
+
+<div style="display: flex; gap: 10px; justify-content: center;">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="50px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="50px"/>
+
+</div>
+
+---
+
+## 😄 Um pouco de humor para aliviar o código
+
+<img src="https://media.tenor.com/Ot_5PzjHtkMAAAAC/alvin-and-the-chipmunks-alvin.gif" width="250px"/>
+
+---
+
+## 📬 Como falar comigo?
+
+📧 **Email:** seuemail@exemplo.com  
+💬 **Instagram:** [@seuuser](https://instagram.com/seuuser)
+
+---
+
+✨ *Obrigado por visitar meu perfil!*
