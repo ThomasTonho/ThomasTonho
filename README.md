@@ -23,7 +23,7 @@
 
 ## 😄 Um pouco de humor para aliviar o código
 
-<img src="https://media.tenor.com/Ot_5PzjHtkMAAAAC/alvin-and-the-chipmunks-alvin.gif" width="250px"/>
+<div class="tenor-gif-embed" data-postid="21789210" data-share-method="host" data-aspect-ratio="1.07023" data-width="100%"><a href="https://tenor.com/view/alvin-and-the-chipmunks-alvin-whoops-my-bad-oops-gif-21789210">Alvin And The Chipmunks Alvin GIF</a>from <a href="https://tenor.com/search/alvin+and+the+chipmunks-gifs">Alvin And The Chipmunks GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 ---
 
