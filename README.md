@@ -1,39 +1,80 @@
-<h1 align="center">Bem-vindo! Eu sou o Thomás👋</h1>
+<h1 align="center">Bem-vindo! Eu sou o Thomás 👋</h1>
 
 ###
+
+<p align="center">
+  💻 Desenvolvedor focado em backend e mobile <br>
+  🚀 Estudando NestJS, Flutter e arquitetura de sistemas
+</p>
+
+---
+
+## 🧠 Tecnologias
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img src="https://skillicons.dev/icons?i=ts" height="60" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=py" height="60" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="60" alt="figma logo"  />
+  <img src="https://skillicons.dev/icons?i=flutter" height="60" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="60" alt="flutter logo"  />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="60" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="60" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="linux logo"  />
+  <img src="https://skillicons.dev/icons?i=linux" height="60" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="60" alt="nestjs logo"  />
+  <img src="https://skillicons.dev/icons?i=mysql" height="60" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" alt="postgresql logo"  />
+  <img src="https://skillicons.dev/icons?i=postgres" height="60" />
 </div>
 
-###
+---
+
+## 📊 Estatísticas
+
+<div align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight"/>
+</div>
+
+---
+
+## 🔥 Streak
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=SEU_USERNAME&theme=tokyonight" />
+</div>
+
+---
+
+## 🟡 Contributions (Pac-Man)
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/SEU_USERNAME/SEU_USERNAME/main/pacman.svg" />
+</div>
+
+---
+
+## 🌐 Contato
 
 <div align="center">
   <a href="https://www.linkedin.com/in/thom%C3%A1s-antonelli-ti/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="antonellithomasv@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  <a href="mailto:antonellithomasv@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/antonelliveloso/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </div>
 
-###
+---
+
+## ⚡ Sobre mim
+
+- 🔭 Atualmente estudando **NestJS + Prisma**
+- 📱 Desenvolvendo apps com **Flutter**
+- 🧠 Focado em evoluir como backend engineer
+- 🚀 Buscando oportunidades na área
