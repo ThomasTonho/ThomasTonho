@@ -7,6 +7,8 @@
   🚀 Estudando NestJS e arquitetura de sistemas
 </p>
 
+
+
 ## 🧠 Tecnologias
 
 <div align="center">
@@ -27,7 +29,7 @@
   <img src="https://skillicons.dev/icons?i=postgres" height="60" />
 </div>
 
----
+
 
 ## 🔥 Streak
 
@@ -35,7 +37,7 @@
   <img src="https://streak-stats.demolab.com?user=ThomasTonho&theme=tokyonight" />
 </div>
 
----
+
 
 ## 🟡 Contributions
 
