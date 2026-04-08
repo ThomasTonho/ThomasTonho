@@ -59,11 +59,3 @@
   </a>
 </div>
 
----
-
-## ⚡ Sobre mim
-
-- 🔭 Atualmente estudando **NestJS + Prisma**
-- 📱 Desenvolvendo apps com **Flutter**
-- 🧠 Focado em evoluir como backend engineer
-- 🚀 Buscando oportunidades na área
