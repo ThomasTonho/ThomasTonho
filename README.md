@@ -41,7 +41,10 @@
 
 ## 🟡 Contributions (Pac-Man)
 
-![snake gif](https://github.com/ThomasTonho/ThomasTonho/blob/output/github-contribution-grid-snake.svg?raw=true)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ThomasTonho/ThomasTonho/output/pacman-contribution-graph-dark.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ThomasTonho/ThomasTonho/output/pacman-contribution-graph.svg">
+</picture>
 
 ---
 
