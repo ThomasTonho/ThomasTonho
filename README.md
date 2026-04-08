@@ -41,7 +41,7 @@
 
 ## 🟡 Contributions (Pac-Man)
 
-<script src="https://cdn.jsdelivr.net/npm/pacman-contribution-graph@2.0.0/dist/index.min.js"></script>
+![snake gif](https://github.com/ThomasTonho/ThomasTonho/blob/output/github-contribution-grid-snake.svg?raw=true)
 
 ---
 
@@ -58,4 +58,3 @@
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </div>
-
