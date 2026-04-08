@@ -3,8 +3,8 @@
 ###
 
 <p align="center">
-  💻 Desenvolvedor focado em backend e mobile <br>
-  🚀 Estudando NestJS, Flutter e arquitetura de sistemas
+  💻 Desenvolvedor focado em backend<br>
+  🚀 Estudando NestJS e arquitetura de sistemas
 </p>
 
 ---
