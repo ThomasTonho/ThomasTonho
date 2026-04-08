@@ -7,8 +7,6 @@
   🚀 Estudando NestJS e arquitetura de sistemas
 </p>
 
----
-
 ## 🧠 Tecnologias
 
 <div align="center">
