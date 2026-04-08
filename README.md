@@ -41,10 +41,9 @@
 
 ## 🟡 Contributions (Pac-Man)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ThomasTonho/ThomasTonho/output/pacman-contribution-graph-dark.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ThomasTonho/ThomasTonho/output/pacman-contribution-graph.svg">
-</picture>
+## 🟡 Contributions (Pac-Man)
+
+![pacman](https://github.com/ThomasTonho/ThomasTonho/blob/output/pacman-contribution-graph.svg?raw=true)
 
 ---
 
