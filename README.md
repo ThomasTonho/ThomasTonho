@@ -31,19 +31,10 @@
 
 ---
 
-## 📊 Estatísticas
-
-<div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight"/>
-</div>
-
----
-
 ## 🔥 Streak
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=SEU_USERNAME&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=ThomasTonho&theme=tokyonight" />
 </div>
 
 ---
@@ -51,7 +42,7 @@
 ## 🟡 Contributions (Pac-Man)
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/SEU_USERNAME/SEU_USERNAME/main/pacman.svg" />
+  <img src="https://raw.githubusercontent.com/ThomasTonho/ThomasTonho/main/pacman.svg" />
 </div>
 
 ---
