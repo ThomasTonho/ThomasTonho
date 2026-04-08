@@ -39,9 +39,7 @@
 
 ---
 
-## 🟡 Contributions (Pac-Man)
-
-## 🟡 Contributions (Pac-Man)
+## 🟡 Contributions
 
 ![pacman](https://github.com/ThomasTonho/ThomasTonho/blob/output/pacman-contribution-graph.svg?raw=true)
 
