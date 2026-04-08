@@ -41,9 +41,7 @@
 
 ## 🟡 Contributions (Pac-Man)
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ThomasTonho/ThomasTonho/main/pacman.svg" />
-</div>
+<script src="https://cdn.jsdelivr.net/npm/pacman-contribution-graph@2.0.0/dist/index.min.js"></script>
 
 ---
 
