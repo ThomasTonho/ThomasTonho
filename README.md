@@ -1,12 +1,8 @@
 <h1 align="center">Thomás Antonelli</h1>
 
-<p align="center"><b>Desenvolvedor Backend</b></p>
-
 <p align="center">
-  APIs e arquitetura de sistemas<br>
-  TypeScript/NestJS &nbsp;·&nbsp; Python/Django<br>
-  Mobile em Flutter<br>
-  Aberto a oportunidades
+  <b>Desenvolvedor Backend</b><br>
+  Estudante de Cibersegurança
 </p>
 
 <p align="center">
