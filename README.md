@@ -1,8 +1,12 @@
 <h1 align="center">Thomás Antonelli</h1>
 
+<p align="center"><b>Desenvolvedor Backend</b></p>
+
 <p align="center">
-  <b>Desenvolvedor backend</b> — APIs, modelagem de dados e arquitetura de sistemas.<br>
-  TypeScript/NestJS e Python/Django. Também construo apps em Flutter.
+  APIs e arquitetura de sistemas<br>
+  TypeScript/NestJS &nbsp;·&nbsp; Python/Django<br>
+  Mobile em Flutter<br>
+  Aberto a oportunidades
 </p>
 
 <p align="center">
@@ -13,15 +17,6 @@
 
 ---
 
-## 🚀 Projetos
-
-| Projeto | O que é | Stack |
-|---|---|---|
-| [**dietoken**](https://github.com/ThomasTonho/dietoken) | CLI que audita o contexto de agentes de código (`CLAUDE.md`, `AGENTS.md`, skills, hooks) e corta desperdício de tokens | TypeScript · Node |
-| [**SMART-CITY**](https://github.com/ThomasTonho/SMART-CITY) | Plataforma de gestão e monitoramento de sensores IoT, com API autenticada e dashboard | Django · JavaScript |
-| [**PROJETO-GenAI**](https://github.com/ThomasTonho/PROJETO-GenAI) | Geração de imagens por IA consumindo API de modelo generativo | Python |
-| [**comparador-apolices**](https://github.com/ThomasTonho/comparador-apolices) | App web para comparar apólices de seguro | Python · Flask |
-
 ## 🛠 Stack
 
 <p align="center">
@@ -31,12 +26,16 @@
 ## 📊 GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ThomasTonho&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThomasTonho&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ThomasTonho&theme=tokyonight" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ThomasTonho&theme=tokyonight" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ThomasTonho&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ThomasTonho&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 <p align="center">
