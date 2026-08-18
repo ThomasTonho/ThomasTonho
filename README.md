@@ -22,11 +22,17 @@
 ## 📊 GitHub
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ThomasTonho/ThomasTonho/main/metrics/overview.svg" alt="Overview" />
+  <img src="https://raw.githubusercontent.com/ThomasTonho/ThomasTonho/main/cards/profile-details.svg" alt="Perfil" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ThomasTonho/ThomasTonho/main/metrics/languages.svg" alt="Linguagens" />
+  <img height="180" src="https://raw.githubusercontent.com/ThomasTonho/ThomasTonho/main/cards/stats.svg" alt="Estatísticas" />
+  <img height="180" src="https://raw.githubusercontent.com/ThomasTonho/ThomasTonho/main/cards/most-commit-language.svg" alt="Linguagens por commit" />
+  <img height="180" src="https://raw.githubusercontent.com/ThomasTonho/ThomasTonho/main/cards/repos-per-language.svg" alt="Linguagens por repositório" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ThomasTonho/ThomasTonho/main/cards/streak.svg" alt="Streak" />
 </p>
 
 <p align="center">
