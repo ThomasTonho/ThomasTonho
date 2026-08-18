@@ -22,17 +22,17 @@
 ## 📊 GitHub
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThomasTonho&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThomasTonho&theme=tokyonight&v=2" />
 </p>
 
 <p align="center">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ThomasTonho&theme=tokyonight" />
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ThomasTonho&theme=tokyonight" />
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ThomasTonho&theme=tokyonight" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ThomasTonho&theme=tokyonight&v=2" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ThomasTonho&theme=tokyonight&v=2" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ThomasTonho&theme=tokyonight&v=2" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ThomasTonho&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=ThomasTonho&theme=tokyonight&hide_border=true&v=2" />
 </p>
 
 <p align="center">
