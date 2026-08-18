@@ -31,7 +31,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ThomasTonho&theme=tokyo-night&hide_border=true&area=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ThomasTonho&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ThomasTonho&theme=tokyonight" />
 </p>
 
 <p align="center">
