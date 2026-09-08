@@ -2,7 +2,6 @@
 
 <p align="center">
   <b>Desenvolvedor Backend</b><br>
-  Estudante de Cibersegurança
 </p>
 
 <p align="center">
